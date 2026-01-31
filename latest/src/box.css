@@ -1,0 +1,15 @@
+.light{
+    border: 2px solid red;
+    padding: 20px;
+    height: 500px;
+    width: 300px;
+}
+.dark{
+    border: 2px solid red;
+    background-color: black;
+    color: rgb(251, 240, 255);
+    padding: 20px;
+    height: 500px;
+    width: 300px;
+
+}
